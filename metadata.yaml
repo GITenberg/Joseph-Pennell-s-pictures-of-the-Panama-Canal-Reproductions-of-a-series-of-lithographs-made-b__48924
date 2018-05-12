@@ -1,4 +1,8 @@
 _repo: Joseph-Pennell-s-pictures-of-the-Panama-Canal-Reproductions-of-a-series-of-lithographs-made-b__48924
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48924-h/images/cover.jpg
 creator:
   author:
     agent_name: Pennell, Joseph
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33068
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48924#Joseph-Pennell-s-pictures-of-the-Panama-Canal-Reproductions-of-a-series-of-lithographs-made-b_
 gutenberg_issued: '2015-05-10'
 gutenberg_type: Text
 identifiers:
