@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Joseph Pennell''s pictures of the Panama Canal
 
   Reproductions of a series of lithographs made by him on
